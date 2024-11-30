@@ -171,7 +171,7 @@ project/
 └── README.md               # Документация
 ```
 
-![Example](images/1_ vsc.PNG)
+![Example](images/1_vsc_.PNG)
 ![Example](images/2_fastapi-swagger.PNG)
 ![Example](images/3_fastapi-swagger.PNG)
 
